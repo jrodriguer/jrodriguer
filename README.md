@@ -22,4 +22,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=jrodriguer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jrodriguer&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=jrodriguer&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
