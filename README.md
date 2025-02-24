@@ -22,4 +22,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=jrodriguer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jrodriguer&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jrodriguer&label=Profile%20views&color=0e75b6&style=flat" alt="jrodriguer" /> </p>
