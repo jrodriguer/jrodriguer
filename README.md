@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🌱 Currently I am focused on native iOS and Android development.
+🌱 Currently I am focused on native iOS and Android development
 
-🤖 I use AI to enhance mobile app features and speed up development workflows.
+🤖 I use AI to enhance mobile app features and speed up development workflows
 
 📫 How to reach me: Check the social links below
 
